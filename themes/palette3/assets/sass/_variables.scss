@@ -1,0 +1,89 @@
+//  COLOR VARS
+
+$dark-green: #1A6135;
+$mid-green: #A4CF5C;
+$light-green: #97CF84;
+$semi-light-green: #6BAE59;
+$mid-grey:#80878D;
+$semi-grey: #D5D5D5;
+$light-grey: #F4F4F4;
+// FONT FAMILIES
+$ff-muli: 'Muli';
+$ff-fa: 'FontAwesome';
+
+$rgb-box-shadow-color: rgba(139, 136, 136, 0.7);
+
+// General Variables
+
+$base-color: $mid-grey;
+
+$nav-dd-bg: #F4F4F4;
+
+$footer-color: #fff;
+
+
+//*****************************************************************************
+//*****************************************************************************
+
+// $ff-muli: 'Muli';
+$ff-merriweather: 'Merriweather', serif;
+$ff-notosans: 'Noto Sans', sans-serif;
+$ff-notoserif: 'Noto Serif', serif;
+$ff-fa: 'FontAwesome';
+
+//  new vars
+$white: #FFFFFF;
+$black: #000000;
+$light-brown: #A68435;
+$dark-brown: #5B4B25;
+$body-text-grey: #535353;
+$background-grey: #F5F5F5;
+$border-grey: #E3E3E3;
+$form-border-grey: #D8D8D8;
+$grey: #95989A;
+$dark-blue: #0A1320;
+
+
+$body-bg-color:#FFFFFF;
+$base-color: $white;
+
+
+$nav-dd-bg: #FFFFFF;
+
+$content-color: black;
+
+$base-font: $ff-notosans , sans-serif;
+$base-font-size: 14px;
+$base-line-height: 22px;
+
+$anchor-color: $dark-brown;
+$anchor-hover-color: $light-brown;
+$anchor-font-weight: 400;
+
+$heading-font:$ff-notoserif;
+$heading-font-weight: 400;
+
+$form-control-bg-color: #FFFFFF;
+$form-control-border-color: $form-border-grey;
+
+$graphics-dir-path: '../../../global/graphics/' !default;
+$fonts-dir-path: '../../../../themes/global/assets/fonts/' !default;
+
+//theme 1
+
+
+// $ff-color-nav:$dark-brown;
+// $ff-color-nav-hover:$light-brown;
+
+//theme 2
+// $blue:#176087;
+// $d-blue:#0A2239;
+// $ff-color-nav:$d-blue;
+// $ff-color-nav-hover:$blue;
+
+//theme 3
+
+$g:#29651C;
+$d-g:#053D29;
+$ff-color-nav:$d-g;
+$ff-color-nav-hover:$g;
